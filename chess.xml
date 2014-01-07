@@ -3,4 +3,5 @@
 <chessversion version="1">
     <version int="65537" str="1.0.1"></version>
     <url href="http://www.example.com/chess.zip"></url>
-<chessversion>
+</chessversion>
+
